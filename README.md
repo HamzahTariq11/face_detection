@@ -2,7 +2,7 @@
 
 First navigate to the directory where all the docker and .py file are saved. 
 
-Start your docker engine through 
+Start your docker engine through Docker Desktop App.
 
 Open terminal and run the following command:
 
